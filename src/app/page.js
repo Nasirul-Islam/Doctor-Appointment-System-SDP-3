@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <div>
-        <h1>MIDUL</h1>
+        <h1>MIDUL ppp</h1>
       </div>
     </main>
   );
